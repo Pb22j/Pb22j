@@ -9,10 +9,8 @@
      src="https://media1.tenor.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
 
 
-<img align="right" width="220"
-     src="https://media1.tenor.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
 ### 🍵 About Me
--يجلو عن النفس ما تعتادُ من قلقِ
+يجلو عن النفس ما تعتادُ من قلقِ
 
  كأسٌ من الشاي بالنعناعِ والحبقِ
 ### 🛠️ Tech
