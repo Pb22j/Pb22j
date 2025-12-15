@@ -3,8 +3,8 @@
 🎓 Computer Science student  
 💻 Java | Python | Algorithms  
 
-> *“There is always only one truth.”* — Detective Conan  
-> I solve bugs like cases: analyze, trace, and prove.
+> *“Once you doubt, you can’t move forward.”* — Detective Conan  
+> Don’t guess. Trace.
 <img align="right" width="220"
      src="https://media1.tenor.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
 
