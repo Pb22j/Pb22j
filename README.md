@@ -7,7 +7,7 @@
 > I solve bugs like cases: analyze, trace, and prove.
 
 <img align="right" width="220"
-     src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" />
+     src="https://media1.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
 
 ### 🍵 About Me
 - Logic-first problem solver  
