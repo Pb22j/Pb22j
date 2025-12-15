@@ -18,12 +18,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
+![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
 
 
 ### 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight)
-![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
+
 
 
 
