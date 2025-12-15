@@ -10,10 +10,8 @@
      src="https://media1.tenor.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
 
 ### 🍵 About Me
-- Logic-first problem solver  
-- Enjoys algorithms & clean code  
-- Fueled by **tea**, not coffee  
-
+-يجلو عن النفس ما تعتادُ من قلقِ
+ كأسٌ من الشاي بالنعناعِ والحبقِ
 ### 🛠️ Tech
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
