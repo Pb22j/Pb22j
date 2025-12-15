@@ -5,9 +5,10 @@
 
 > *“There is always only one truth.”* — Detective Conan  
 > I solve bugs like cases: analyze, trace, and prove.
-
 <img align="right" width="220"
      src="https://media1.tenor.com/m/T2UbH7ST6y4AAAAC/detective-conan-conan-edogawa.gif" />
+
+
 
 ### 🍵 About Me
 -يجلو عن النفس ما تعتادُ من قلقِ
