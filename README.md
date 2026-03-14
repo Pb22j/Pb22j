@@ -1,4 +1,7 @@
-### Hi, I'm Pb22j 👋
+
+### Hi, I'm Pb22j 👋 
+<img align="right" src=".github/ksu.png" width="300" /> 
+
 
 > *"Once you doubt, you can't move forward."* — Detective Conan \
 > *Don't guess. Trace.*
