@@ -3,7 +3,7 @@
 > *"Once you doubt, you can't move forward."* — Detective Conan \
 > *Don't guess. Trace.*
 
-🎓 Computer Science student at King Saud University <code><img height="20" src=".github/ksu2.png" alt="ksu" /></code> \
+<code><img height="16" src=".github/ksu2.png" alt="ksu" /></code> Computer Science student at King Saud University  \
 ☕ Tea warms my hands and clears my sky. \
 🌙 When life gets heavy, storms draw night. \
 📖 يخلو عن النفس ما تعتاد من قلق \
@@ -11,9 +11,9 @@
 
 ### 💬 CONTACT
 
-✈️ Telegram: @Pb22j \
-📧 Email: Pb22j@hotmail.com \
-Discord: @Pb22j  
+<img height="16" src=".github/telegram.png" alt="Telegram" />  Telegram: @Pb22j \
+<img height="16" src=".github/outlook.png" alt="outlook" />  Email: Pb22j@hotmail.com \
+<img height="16" src=".github/discord.png" alt="Discord" />  Discord: @Pb22j  
 
 ### 💻 TECH STACK
 
