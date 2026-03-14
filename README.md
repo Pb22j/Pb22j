@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src=".github/ksu2.png" height="48" alt="King Saud University Logo" />   <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
+    <img src=".github/ksu1.png" height="48" alt="King Saud University Logo" />   <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
   </a>
 </p>
 
@@ -27,6 +27,10 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
 
 <img src=".github/ksu.png" height="48" alt="King Saud University Logo" />
+
+### 📈 STATS
+
+![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 <!--
 ### 🚀 FEATURED PROJECTS
 
@@ -34,9 +38,7 @@
 * **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
 * **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
 -->
-### 📈 STATS
 
-![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 
 <!--
 ## 🕵️ Hey, I'm Pb22j 👋
