@@ -22,8 +22,11 @@
     <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
   </a>
 </p>
+<img src="ksu_masterlogo_colour_rgb.png" height="48" alt="King Saud University Logo" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
+
+
 <!--
 ### 🚀 FEATURED PROJECTS
 
