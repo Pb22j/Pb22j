@@ -1,3 +1,41 @@
+### Hi, I'm Pb22j 👋
+
+> *"Once you doubt, you can't move forward."* — Detective Conan \
+> *Don't guess. Trace.*
+
+🎓 Computer Science student at King Saud University \
+☕ Tea warms my hands and clears my sky. \
+🌙 When life gets heavy, storms draw night. \
+📖 يخلو عن النفس ما تعتاد من قلق \
+🍃كأنّ من الشاي، بالنعناع والحبق
+
+### 💬 CONTACT
+
+✈️ Telegram: [@Pb22j] \
+💼 LinkedIn: [---] \
+📧 Email: [Pb22j@hotmail.com] 
+
+### 💻 TECH STACK
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
+  </a>
+</p>
+
+![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
+<!--
+### 🚀 FEATURED PROJECTS
+
+* **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
+* **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
+* **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
+-->
+### 📈 STATS
+
+![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
+
+<!--
 ## 🕵️ Hey, I'm Pb22j 👋
 
 🎓 Computer Science student  
@@ -30,7 +68,7 @@ Tea🍵 warms my hands and clears my sky.
 ### 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight)
 
-
+-->
 
 
 <!--
