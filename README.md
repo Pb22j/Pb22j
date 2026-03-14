@@ -15,7 +15,7 @@
 ### 💬 CONTACT
 
 <img height="16" src=".github/telegram.png" alt="Telegram" />  Telegram: @Pb22j \
-<img height="16" src=".github/outlook.png" alt="outlook" />  Email: Pb22j@hotmail.com \
+<img height="16" src=".github/outlook.png" alt="outlook" />  Email: MohammedAlwanis@outlook.com \
 <img height="16" src=".github/discord.png" alt="Discord" />  Discord: @Pb22j  
 
 ### 💻 TECH STACK
@@ -33,7 +33,7 @@
 
 ### 📈 STATS
 
-![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
+![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 <!--
 ### 🚀 FEATURED PROJECTS
 
