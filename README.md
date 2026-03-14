@@ -19,14 +19,14 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
+    <img src=".github/ksu2.png" height="48" alt="King Saud University Logo" />   <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
   </a>
 </p>
-<img src="ksu_masterlogo_colour_rgb.png" height="48" alt="King Saud University Logo" />
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
 
-
+<img src=".github/ksu.png" height="48" alt="King Saud University Logo" />
 <!--
 ### 🚀 FEATURED PROJECTS
 
