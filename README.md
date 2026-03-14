@@ -22,7 +22,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src=".github/ksu2.png" height="48" alt="King Saud University Logo" />   <img src="https://skillicons.dev/icons?i=java,python,c,git,linux" />
+    <img src=".github/ksu2.png" height="48" alt="King Saud University Logo" />   <img src="https://skillicons.dev/icons?i=java,mysql,python,c,git,linux" />
   </a>
 </p>
 
