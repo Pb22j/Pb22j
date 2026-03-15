@@ -9,8 +9,8 @@
 <code><img height="16" src=".github/ksu2.png" alt="ksu" /></code> Computer Science student at King Saud University  \
 ☕ Tea warms my hands and clears my sky. \
 🌙 When life gets heavy, storms draw night. \
-📖 يخلو عن النفس ما تعتاد من قلق \
-🍃كأس من الشاي، بالنعناع والحبق
+📖عطني من " الشاهي " المخدر بياله اللي على جال أشهب الجمر سووه أظن \
+🍃 تكسب في " رفيقك " جماله ولا يلحقك "مني" لياقمت مشروه
 
 ### 💬 CONTACT
 
