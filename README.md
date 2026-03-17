@@ -35,7 +35,6 @@
 
 
 ### 📈 STATS
-
 ![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 <!--
 ### 🚀 FEATURED PROJECTS
