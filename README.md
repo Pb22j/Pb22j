@@ -35,6 +35,8 @@
 
 
 ### 📈 STATS
+![Pb22j](https://raw.githubusercontent.com/Pb22j/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Pb22j](https://raw.githubusercontent.com/Pb22j/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Pb22j's GitHub stats](https://github-readme-stats.vercel.app/api?username=pb22j&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true)
 <!--
 ### 🚀 FEATURED PROJECTS
