@@ -1,4 +1,4 @@
-<!--
+
 ### Hi, I'm Pb22j 👋 
 <img align="right" src=".github/ksu.png" width="300" /> 
 
@@ -33,11 +33,11 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
 
 
-
+<!--
 ### 📈 STATS
 ![Pb22j](https://raw.githubusercontent.com/pb22j/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<!--
+
 ### 🚀 FEATURED PROJECTS
 
 * **[Project Name]:** [Short, one-sentence description of what it does and the tech used]
