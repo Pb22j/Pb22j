@@ -33,7 +33,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Pb22j&label=Visitors&color=0e75b6)
 
 
-<!--
+<
 ### 📈 STATS
 ![Pb22j](https://raw.githubusercontent.com/pb22j/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
