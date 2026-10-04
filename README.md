@@ -13,10 +13,10 @@
 🔥اللي على جال أشهب الجمر سووه \
 🫂 أظن تكسب في " رفيقك " جماله \
 🚶‍♂️ولا يلحقك "مني" لياقمت مشروه
-As
+
 
 ### 💬 CONTACT
-<img height="16" src=".github/profile.png" alt="My site" />  Personal Website: <a href="https://mohammed@alwanis.me" target="_blank" > mohammed.alwanis.me</a> \
+<img height="16" src=".github/profile.png" alt="My site" />  Personal Website: <a href="https://mohammed.alwanis.me" target="_blank" > mohammed.alwanis.me</a> \
 <img height="16" src=".github/telegram.png" alt="Telegram" />  Telegram: @Pb22j \
 <img height="16" src=".github/outlook.png" alt="Email" />  Email: <a href="mailto:mohammed@alwanis.me" target="_blank">mohammed@alwanis.me</a> \
 <img height="16" src=".github/discord.png" alt="Discord" />  Discord: @Pb22j  
