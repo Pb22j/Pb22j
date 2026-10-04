@@ -16,9 +16,9 @@
 
 
 ### 💬 CONTACT
-
+<img height="16" src=".github/telegram.png" alt="My site" />  Personal Website: mohammed.alwanis.me \
 <img height="16" src=".github/telegram.png" alt="Telegram" />  Telegram: @Pb22j \
-<img height="16" src=".github/outlook.png" alt="outlook" />  Email: malwanis@hotmail.com \
+<img height="16" src=".github/outlook.png" alt="Email" />  Email: mohammed@alwanis.me \
 <img height="16" src=".github/discord.png" alt="Discord" />  Discord: @Pb22j  
 
 ### 💻 TECH STACK
